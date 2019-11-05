@@ -1,8 +1,8 @@
 # ExcellenTeam Mobileye Project 2019-11-05
 
 ## Team Members
-* Your Name Here
-* Your Name Here
+* Elana Felsenthal
+* Shira Zaltsman
 
 ## Libraries/Technologies Used
 * python 3.7
