@@ -1,5 +1,6 @@
 # ExcellenTeam Mobileye Project 2019-11-05
-
+In this project we developed an algorithm for detecting traffic-lights in an image.
+In phase II we calculated the traffic-light distance.
 ## Team Members
 * Elana Felsenthal
 * Shira Zaltsman
@@ -9,17 +10,10 @@
 * numpy
 * matplotlib
 * jupyterlab
-* list here libraries/code used
-* list here libraries/code used
-* list here libraries/code used
+
 
 ## Credits
-* list here website/blog post/article/book/friend
-* list here website/blog post/article/book/friend
-* list here website/blog post/article/book/friend
+* An Invitation to 3-D Vision 
 
 ## Special Thanks
-* list here
-* list here
-* list here
-* list here
+* Mobileye team
